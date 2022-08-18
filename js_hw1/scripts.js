@@ -56,6 +56,7 @@ console.log(num);
 
 let d = prompt('Введите первое число');
 let e = prompt('Введите второе число');
+d > e || d > e || d == e
 if (d > e) {
     alert('Yes!  ,больше');
 } else if (d == e) {
